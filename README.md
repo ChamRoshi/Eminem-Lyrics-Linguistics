@@ -1,6 +1,6 @@
 # Lyrics Crawling & Analysis
 
-Written to see how good Rap God actually is becuase clearly subjective preference has nothing to do with music :P
+Written to see how good Rap God actually is because clearly subjective preference has nothing to do with music :P
 
 Yes I used 2.7, pls dont judge me! 
 
